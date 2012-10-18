@@ -1,3 +1,4 @@
-Sencha Touch 2 app for the Dutch Mobile/PHP Conference 2012
+dpc-dmc-12-app
+==============
 
-Forward evolvement will be discussed
+Open source release of the app used for the Dutch PHP Conference and Dutch Mobile Conference
